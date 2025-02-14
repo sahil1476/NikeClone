@@ -1,8 +1,72 @@
-# React + Vite
+# 👟 Nike Clone - React & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **modern, fully responsive e-commerce Nike Clone** built with **React & Tailwind CSS**. This project replicates the Nike store experience with an intuitive UI, animations, and dynamic product listings.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+
+✅ **Fully Responsive** – Mobile-first design with Tailwind CSS.  
+✅ **Smooth Animations** – Framer Motion animations for a seamless experience.   
+✅ **Optimized Performance** – Fast loading with React and optimized assets.  
+
+---
+
+## 🖼️ Preview
+
+### 📌 Live View:
+
+You can view the live demo of the project here:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen)](https://nike-clone-six-rho.vercel.app/)
+
+
+---
+
+## 🛠️ Tech Stack
+
+🔹 **React** – Frontend framework  
+🔹 **Tailwind CSS** – For modern styling   
+
+---
+
+## 🚀 Installation & Setup
+
+### 🔧 Clone the Repository:
+```bash
+ git clone https://github.com/sahil1476/NikeClone.git
+ cd NikeClone
+```
+
+### 📦 Install Dependencies:
+```bash
+ npm install
+```
+
+### ▶️ Run the App:
+```bash
+ npm run dev
+```
+
+---
+
+## 🖥️ Architecture Diagram
+
+```mermaid
+graph TD;
+    User-->UI[React Frontend];
+    UI-->TailwindCSS;
+```
+
+---
+
+## 📜 License
+
+This project is **open-source**.
+
+---
+
+### 🌟 Like this project? Give it a ⭐ on GitHub!
+
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/nike-clone?style=social)](https://github.com/sahil1476/)
+
